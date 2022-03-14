@@ -1,0 +1,66 @@
+[{
+    "id": 1,
+    "floor": 1,
+    "street": "sarsaul",
+    "landmark": "airport banlore",
+    "area": "murarmau",
+    "city": "ninja",
+    "state": "UP",
+    "pincode": 209402
+},
+{
+    "id": 2,
+    "floor": 10,
+    "street": "station bajar",
+    "landmark": "airport banlore 1",
+    "area": "murarmau",
+    "city": "ninja",
+    "state": "UP",
+    "pincode": 209402
+},{
+    "id": 3,
+    "floor": 1,
+    "street": "kanpur naka",
+    "landmark": "airport banlore",
+    "area": "murarmau",
+    "city": "ninja",
+    "state": "UP",
+    "pincode": 209402
+},{
+    "id": 4,
+    "floor": 1,
+    "street": "kidwai nagar",
+    "landmark": "airport banlore",
+    "area": "murarmau",
+    "city": "ninja",
+    "state": "UP",
+    "pincode": 209402
+},{
+    "id": 5,
+    "floor": 1,
+    "street": "mau",
+    "landmark": "airport banlore",
+    "area": "murarmau",
+    "city": "ninja",
+    "state": "UP",
+    "pincode": 209402
+},{
+    "id": 6,
+    "floor": 1,
+    "street": "rampur kanpur saurasau",
+    "landmark": "airport banlore",
+    "area": "murarmau",
+    "city": "ninja",
+    "state": "UP",
+    "pincode": 209402
+},{
+    "id": 7,
+    "floor": 1,
+    "street": "ramaipur",
+    "landmark": "airport banlore",
+    "area": "murarmau",
+    "city": "ninja",
+    "state": "UP",
+    "pincode": 209402
+}
+]
